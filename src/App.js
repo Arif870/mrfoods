@@ -12,7 +12,7 @@ function App() {
         <Grid xs={12} md={4}>
           <List />
         </Grid>
-        <Grid xs={12} md={8}>
+        <Grid xs={12} md={8} style={{ height: "500px" }}>
           <Map />
         </Grid>
       </Grid>
