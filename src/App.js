@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      <Grid container spacing={3} style={{ width: "100%" }}>
+      <Grid container spacing={3} style={{ width: "95%", margin: "50px auto" }}>
         <Grid xs={12} md={4}>
           <List />
         </Grid>
